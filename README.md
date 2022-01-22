@@ -1,10 +1,9 @@
 # Drunken Farm Back
 
-<img width="100%" src="https://user-images.githubusercontent.com/74184274/149309062-f60c57a3-f7d3-453d-a0d5-a4328dec2043.gif" />
-<p align="center"><em>백엔드는 프로가 아니니까..!</em></p>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
 </p>
 
     http://192.249.18.138:443
