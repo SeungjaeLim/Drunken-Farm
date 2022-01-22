@@ -1,9 +1,18 @@
 # DRUNKEN FARM
+  <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
+</p>
+ <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
 
+</p>
 <div>
-  <img width="33%" src="https://user-images.githubusercontent.com/64083281/149874704-27812e65-86e1-4848-9b1e-249e3d6d02f0.gif" />
-  <img width="33%" src="https://user-images.githubusercontent.com/64083281/149874703-40b41f5e-d272-4097-9b02-734202a5c63f.gif" />
-  <img width="33%" src="https://user-images.githubusercontent.com/64083281/149874702-67829a93-29e8-4680-b195-24abe5d9f725.gif" />
+  <img width="30%" src="https://user-images.githubusercontent.com/64083281/149874704-27812e65-86e1-4848-9b1e-249e3d6d02f0.gif" />
+  <img width="30%" src="https://user-images.githubusercontent.com/64083281/149874703-40b41f5e-d272-4097-9b02-734202a5c63f.gif" />
+  <img width="30%" src="https://user-images.githubusercontent.com/64083281/149874702-67829a93-29e8-4680-b195-24abe5d9f725.gif" />
 </div>
 <p align="center"><em>special thanks to gifted artist, SEOLYEONG BAE(<a href="https://github.com/pell13">pell13</a>, peixueying@gmail.com)</em></p>
 
